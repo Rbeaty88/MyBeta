@@ -1,2 +1,2 @@
-# Project1
+# MyBeta
 Rock Climbing App
